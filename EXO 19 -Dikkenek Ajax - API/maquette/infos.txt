@@ -1,0 +1,5 @@
+ici 3 requètes ajax
+ds the movie db
+SEARCH
+MOVIES
+COMPANIES
